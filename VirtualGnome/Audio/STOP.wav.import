@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/STOP.wav-9be34fd6c3e17db2dba1a942b947f30c.sample"
+
+[deps]
+
+source_file="res://Audio/STOP.wav"
+dest_files=[ "res://.import/STOP.wav-9be34fd6c3e17db2dba1a942b947f30c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
